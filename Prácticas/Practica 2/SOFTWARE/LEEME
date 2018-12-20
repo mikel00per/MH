@@ -1,0 +1,10 @@
+Directorio que contine el ejecutable y los datos a leer por el programa.
+
+MODO DE USO:
+
+	./p2 data/<fichero_problema.arff> <semilla>
+
+	./p2 data/ozone-320.arff 62
+	./p2 data/parkinsons.arff 94
+	./p2 data/spectf-heart.arff 55
+	
